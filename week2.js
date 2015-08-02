@@ -154,7 +154,7 @@ d3.tsv(dataUrl, function(error, data) {
       .attr("x", -10)
       .attr("dy", ".71em")
       .style("text-anchor", "end")
-      .text("Annual Mean Temperature (°C)");
+      .text("LOTI (Land-Ocean Temperature Index in 0.01 degrees Celsius)");
 
   var issue = svg.selectAll(".issue")
       .data(categories) // Select nested data and append to new svg group elements
