@@ -12,13 +12,14 @@ This repository contains the source codes of my homework
 ![North Hemisphere and Zonal](screenshots/nhem-zonal.png)
 
 **Explanation**:
+
 This Graph visualises the GISTEMP data for the Globe, the North and South Hemispheres, and the Zonal annual means through all the given years.
 
 As is depicted above, the black, blue and red lines describes the Globe, the South Hemisphere, and the North Hemisphere respectively. The horizontal axis is *year*, while the vertical axis is the temperature in celsius.
 
 And this visualisation is interactive --
 
-1. user can hover over the main graph to know what the annual mean of the year exactly is, for all these available metrics;
+1. user can hover over the main graph to know what the annual mean of the year exactly is, for all these available metrics, shown along with the legends;
 2. user can select / deselect the mectrics by clicking the legends on the right, to focus on the data she is interested in;
 3. user can select a portion of time by selecting an area in the small chart to the bottom of this visualisation;
 4. user can hover over a legend to highlight / thicken a line of metrics.
