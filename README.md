@@ -8,13 +8,16 @@ This repository contains the source codes of my homework
 
 ![Global, North and South Hemispheres](screenshots/global-nhem-shem.png)
 ![Hover to highlight](screenshots/hover-to-highlight.png)
-![Time range selection](screenshots/tiem-region.png)
+![Time range selection](screenshots/time-region.png)
 ![North Hemisphere and Zonal](screenshots/nhem-zonal.png)
 
 **Explanation**:
 This Graph visualises the GISTEMP data for the Globe, the North and South Hemispheres, and the Zonal annual means through all the given years.
+
 As is depicted above, the black, blue and red lines describes the Globe, the South Hemisphere, and the North Hemisphere respectively. The horizontal axis is *year*, while the vertical axis is the temperature in celsius.
+
 And this visualisation is interactive --
+
 1. user can hover over the main graph to know what the annual mean of the year exactly is, for all these available metrics;
 2. user can select / deselect the mectrics by clicking the legends on the right, to focus on the data she is interested in;
 3. user can select a portion of time by selecting an area in the small chart to the bottom of this visualisation;
@@ -22,6 +25,7 @@ And this visualisation is interactive --
 
 
 This visualisation shows:
+
 1. over the years, although the annual mean temperatures are viberating greatly, the overall trend is rising, especially since 1980;
 2. the temperature of the North Hemisphere is usually higher than the temperature of the South;
 3. regions near the poles (South and North) have higher deviation of annual mean temperatures over the years, especially between 1900 and 1960;
